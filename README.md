@@ -1,4 +1,4 @@
 # apnacollage-demo
 This my first git repository 
 <br>
-Author-Abhishek kumar.
+Author-Abhishek kumar(Apna collage)
